@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="160">
+<rect width="900" height="160" fill="#0d1117"/>
+<style>
+.col { font-family: "Courier New", monospace; font-size: 14px; fill: #00ff41; }
+.c0 { animation: fall0 4.1s linear infinite; animation-delay: -0.1s; }
+@keyframes fall0 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c1 { animation: fall1 3.19s linear infinite; animation-delay: -0.89s; }
+@keyframes fall1 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c2 { animation: fall2 4.34s linear infinite; animation-delay: -2.71s; }
+@keyframes fall2 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c3 { animation: fall3 4.73s linear infinite; animation-delay: -0.35s; }
+@keyframes fall3 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c4 { animation: fall4 3.55s linear infinite; animation-delay: -0.12s; }
+@keyframes fall4 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c5 { animation: fall5 3.05s linear infinite; animation-delay: -2.02s; }
+@keyframes fall5 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c6 { animation: fall6 2.57s linear infinite; animation-delay: -0.8s; }
+@keyframes fall6 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c7 { animation: fall7 4.12s linear infinite; animation-delay: -2.18s; }
+@keyframes fall7 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c8 { animation: fall8 3.05s linear infinite; animation-delay: -2.36s; }
+@keyframes fall8 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c9 { animation: fall9 4.52s linear infinite; animation-delay: -0.03s; }
+@keyframes fall9 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c10 { animation: fall10 4.51s linear infinite; animation-delay: -2.79s; }
+@keyframes fall10 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c11 { animation: fall11 3.35s linear infinite; animation-delay: -0.62s; }
+@keyframes fall11 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c12 { animation: fall12 4.89s linear infinite; animation-delay: -1.35s; }
+@keyframes fall12 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c13 { animation: fall13 2.73s linear infinite; animation-delay: -0.39s; }
+@keyframes fall13 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c14 { animation: fall14 4.62s linear infinite; animation-delay: -2.41s; }
+@keyframes fall14 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c15 { animation: fall15 4.52s linear infinite; animation-delay: -2.92s; }
+@keyframes fall15 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c16 { animation: fall16 3.84s linear infinite; animation-delay: -3.89s; }
+@keyframes fall16 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c17 { animation: fall17 3.45s linear infinite; animation-delay: -2.21s; }
+@keyframes fall17 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c18 { animation: fall18 4.57s linear infinite; animation-delay: -2.47s; }
+@keyframes fall18 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c19 { animation: fall19 4.65s linear infinite; animation-delay: -2.31s; }
+@keyframes fall19 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c20 { animation: fall20 4.26s linear infinite; animation-delay: -0.18s; }
+@keyframes fall20 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c21 { animation: fall21 3.07s linear infinite; animation-delay: -1.16s; }
+@keyframes fall21 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c22 { animation: fall22 2.7s linear infinite; animation-delay: -0.93s; }
+@keyframes fall22 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c23 { animation: fall23 2.75s linear infinite; animation-delay: -1.11s; }
+@keyframes fall23 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c24 { animation: fall24 4.09s linear infinite; animation-delay: -1.46s; }
+@keyframes fall24 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c25 { animation: fall25 3.43s linear infinite; animation-delay: -0.84s; }
+@keyframes fall25 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c26 { animation: fall26 3.17s linear infinite; animation-delay: -3.75s; }
+@keyframes fall26 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c27 { animation: fall27 4.12s linear infinite; animation-delay: -2.44s; }
+@keyframes fall27 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c28 { animation: fall28 2.93s linear infinite; animation-delay: -2.92s; }
+@keyframes fall28 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c29 { animation: fall29 2.91s linear infinite; animation-delay: -1.52s; }
+@keyframes fall29 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c30 { animation: fall30 4.97s linear infinite; animation-delay: -2.56s; }
+@keyframes fall30 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c31 { animation: fall31 3.89s linear infinite; animation-delay: -2.74s; }
+@keyframes fall31 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c32 { animation: fall32 4.61s linear infinite; animation-delay: -3.1s; }
+@keyframes fall32 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c33 { animation: fall33 3.07s linear infinite; animation-delay: -0.13s; }
+@keyframes fall33 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c34 { animation: fall34 3.29s linear infinite; animation-delay: -1.07s; }
+@keyframes fall34 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c35 { animation: fall35 3.03s linear infinite; animation-delay: -3.77s; }
+@keyframes fall35 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c36 { animation: fall36 4.69s linear infinite; animation-delay: -1.26s; }
+@keyframes fall36 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c37 { animation: fall37 4.14s linear infinite; animation-delay: -1.58s; }
+@keyframes fall37 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c38 { animation: fall38 4.79s linear infinite; animation-delay: -1.84s; }
+@keyframes fall38 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+.c39 { animation: fall39 3.16s linear infinite; animation-delay: -0.99s; }
+@keyframes fall39 { 0% { transform: translateY(-160px); opacity: 0.9; } 100% { transform: translateY(160px); opacity: 0.2; } }
+</style>
+<text class="col c0"><tspan x="6" dy="16">キ</tspan><tspan x="6" dy="16" opacity="1.0">M</tspan><tspan x="6" dy="16" opacity="0.89">ソ</tspan><tspan x="6" dy="16" opacity="0.78">Z</tspan><tspan x="6" dy="16" opacity="0.67">P</tspan><tspan x="6" dy="16" opacity="0.56">F</tspan><tspan x="6" dy="16" opacity="0.44">P</tspan><tspan x="6" dy="16" opacity="0.33">D</tspan><tspan x="6" dy="16" opacity="0.22">B</tspan><tspan x="6" dy="16" opacity="0.11">ス</tspan></text>
+<text class="col c1"><tspan x="28" dy="16">Q</tspan><tspan x="28" dy="16" opacity="1.0">J</tspan><tspan x="28" dy="16" opacity="0.89">エ</tspan><tspan x="28" dy="16" opacity="0.78">イ</tspan><tspan x="28" dy="16" opacity="0.67">カ</tspan><tspan x="28" dy="16" opacity="0.56">ク</tspan><tspan x="28" dy="16" opacity="0.44">S</tspan><tspan x="28" dy="16" opacity="0.33">ケ</tspan><tspan x="28" dy="16" opacity="0.22">V</tspan><tspan x="28" dy="16" opacity="0.11">F</tspan></text>
+<text class="col c2"><tspan x="50" dy="16">ソ</tspan><tspan x="50" dy="16" opacity="1.0">C</tspan><tspan x="50" dy="16" opacity="0.8">C</tspan><tspan x="50" dy="16" opacity="0.6">Q</tspan><tspan x="50" dy="16" opacity="0.4">H</tspan><tspan x="50" dy="16" opacity="0.2">L</tspan></text>
+<text class="col c3"><tspan x="72" dy="16">カ</tspan><tspan x="72" dy="16" opacity="1.0">0</tspan><tspan x="72" dy="16" opacity="0.89">V</tspan><tspan x="72" dy="16" opacity="0.78">Y</tspan><tspan x="72" dy="16" opacity="0.67">カ</tspan><tspan x="72" dy="16" opacity="0.56">V</tspan><tspan x="72" dy="16" opacity="0.44">M</tspan><tspan x="72" dy="16" opacity="0.33">タ</tspan><tspan x="72" dy="16" opacity="0.22">T</tspan><tspan x="72" dy="16" opacity="0.11">ト</tspan></text>
+<text class="col c4"><tspan x="94" dy="16">K</tspan><tspan x="94" dy="16" opacity="1.0">F</tspan><tspan x="94" dy="16" opacity="0.86">ケ</tspan><tspan x="94" dy="16" opacity="0.71">H</tspan><tspan x="94" dy="16" opacity="0.57">0</tspan><tspan x="94" dy="16" opacity="0.43">Y</tspan><tspan x="94" dy="16" opacity="0.29">Y</tspan><tspan x="94" dy="16" opacity="0.14">ソ</tspan></text>
+<text class="col c5"><tspan x="116" dy="16">Q</tspan><tspan x="116" dy="16" opacity="1.0">K</tspan><tspan x="116" dy="16" opacity="0.83">オ</tspan><tspan x="116" dy="16" opacity="0.67">S</tspan><tspan x="116" dy="16" opacity="0.5">ツ</tspan><tspan x="116" dy="16" opacity="0.33">S</tspan><tspan x="116" dy="16" opacity="0.17">K</tspan></text>
+<text class="col c6"><tspan x="138" dy="16">Q</tspan><tspan x="138" dy="16" opacity="1.0">ク</tspan><tspan x="138" dy="16" opacity="0.83">B</tspan><tspan x="138" dy="16" opacity="0.67">ケ</tspan><tspan x="138" dy="16" opacity="0.5">M</tspan><tspan x="138" dy="16" opacity="0.33">L</tspan><tspan x="138" dy="16" opacity="0.17">0</tspan></text>
+<text class="col c7"><tspan x="160" dy="16">セ</tspan><tspan x="160" dy="16" opacity="1.0">J</tspan><tspan x="160" dy="16" opacity="0.86">1</tspan><tspan x="160" dy="16" opacity="0.71">カ</tspan><tspan x="160" dy="16" opacity="0.57">B</tspan><tspan x="160" dy="16" opacity="0.43">ツ</tspan><tspan x="160" dy="16" opacity="0.29">セ</tspan><tspan x="160" dy="16" opacity="0.14">イ</tspan></text>
+<text class="col c8"><tspan x="182" dy="16">I</tspan><tspan x="182" dy="16" opacity="1.0">エ</tspan><tspan x="182" dy="16" opacity="0.89">エ</tspan><tspan x="182" dy="16" opacity="0.78">Y</tspan><tspan x="182" dy="16" opacity="0.67">J</tspan><tspan x="182" dy="16" opacity="0.56">ウ</tspan><tspan x="182" dy="16" opacity="0.44">M</tspan><tspan x="182" dy="16" opacity="0.33">キ</tspan><tspan x="182" dy="16" opacity="0.22">キ</tspan><tspan x="182" dy="16" opacity="0.11">U</tspan></text>
+<text class="col c9"><tspan x="204" dy="16">サ</tspan><tspan x="204" dy="16" opacity="1.0">ケ</tspan><tspan x="204" dy="16" opacity="0.89">ソ</tspan><tspan x="204" dy="16" opacity="0.78">L</tspan><tspan x="204" dy="16" opacity="0.67">Q</tspan><tspan x="204" dy="16" opacity="0.56">F</tspan><tspan x="204" dy="16" opacity="0.44">シ</tspan><tspan x="204" dy="16" opacity="0.33">M</tspan><tspan x="204" dy="16" opacity="0.22">Y</tspan><tspan x="204" dy="16" opacity="0.11">W</tspan></text>
+<text class="col c10"><tspan x="226" dy="16">ス</tspan><tspan x="226" dy="16" opacity="1.0">ツ</tspan><tspan x="226" dy="16" opacity="0.9">D</tspan><tspan x="226" dy="16" opacity="0.8">U</tspan><tspan x="226" dy="16" opacity="0.7">T</tspan><tspan x="226" dy="16" opacity="0.6">B</tspan><tspan x="226" dy="16" opacity="0.5">G</tspan><tspan x="226" dy="16" opacity="0.4">L</tspan><tspan x="226" dy="16" opacity="0.3">G</tspan><tspan x="226" dy="16" opacity="0.2">カ</tspan><tspan x="226" dy="16" opacity="0.1">セ</tspan></text>
+<text class="col c11"><tspan x="248" dy="16">P</tspan><tspan x="248" dy="16" opacity="1.0">ト</tspan><tspan x="248" dy="16" opacity="0.8">1</tspan><tspan x="248" dy="16" opacity="0.6">P</tspan><tspan x="248" dy="16" opacity="0.4">N</tspan><tspan x="248" dy="16" opacity="0.2">ス</tspan></text>
+<text class="col c12"><tspan x="270" dy="16">ウ</tspan><tspan x="270" dy="16" opacity="1.0">0</tspan><tspan x="270" dy="16" opacity="0.83">ウ</tspan><tspan x="270" dy="16" opacity="0.67">X</tspan><tspan x="270" dy="16" opacity="0.5">S</tspan><tspan x="270" dy="16" opacity="0.33">イ</tspan><tspan x="270" dy="16" opacity="0.17">ス</tspan></text>
+<text class="col c13"><tspan x="292" dy="16">U</tspan><tspan x="292" dy="16" opacity="1.0">ト</tspan><tspan x="292" dy="16" opacity="0.8">ウ</tspan><tspan x="292" dy="16" opacity="0.6">K</tspan><tspan x="292" dy="16" opacity="0.4">セ</tspan><tspan x="292" dy="16" opacity="0.2">タ</tspan></text>
+<text class="col c14"><tspan x="314" dy="16">I</tspan><tspan x="314" dy="16" opacity="1.0">シ</tspan><tspan x="314" dy="16" opacity="0.88">M</tspan><tspan x="314" dy="16" opacity="0.75">キ</tspan><tspan x="314" dy="16" opacity="0.62">Y</tspan><tspan x="314" dy="16" opacity="0.5">O</tspan><tspan x="314" dy="16" opacity="0.38">O</tspan><tspan x="314" dy="16" opacity="0.25">I</tspan><tspan x="314" dy="16" opacity="0.12">セ</tspan></text>
+<text class="col c15"><tspan x="336" dy="16">H</tspan><tspan x="336" dy="16" opacity="1.0">サ</tspan><tspan x="336" dy="16" opacity="0.88">オ</tspan><tspan x="336" dy="16" opacity="0.75">オ</tspan><tspan x="336" dy="16" opacity="0.62">U</tspan><tspan x="336" dy="16" opacity="0.5">F</tspan><tspan x="336" dy="16" opacity="0.38">A</tspan><tspan x="336" dy="16" opacity="0.25">F</tspan><tspan x="336" dy="16" opacity="0.12">E</tspan></text>
+<text class="col c16"><tspan x="358" dy="16">セ</tspan><tspan x="358" dy="16" opacity="1.0">イ</tspan><tspan x="358" dy="16" opacity="0.9">V</tspan><tspan x="358" dy="16" opacity="0.8">T</tspan><tspan x="358" dy="16" opacity="0.7">T</tspan><tspan x="358" dy="16" opacity="0.6">オ</tspan><tspan x="358" dy="16" opacity="0.5">イ</tspan><tspan x="358" dy="16" opacity="0.4">D</tspan><tspan x="358" dy="16" opacity="0.3">Y</tspan><tspan x="358" dy="16" opacity="0.2">ト</tspan><tspan x="358" dy="16" opacity="0.1">オ</tspan></text>
+<text class="col c17"><tspan x="380" dy="16">タ</tspan><tspan x="380" dy="16" opacity="1.0">サ</tspan><tspan x="380" dy="16" opacity="0.83">M</tspan><tspan x="380" dy="16" opacity="0.67">G</tspan><tspan x="380" dy="16" opacity="0.5">キ</tspan><tspan x="380" dy="16" opacity="0.33">F</tspan><tspan x="380" dy="16" opacity="0.17">コ</tspan></text>
+<text class="col c18"><tspan x="402" dy="16">0</tspan><tspan x="402" dy="16" opacity="1.0">セ</tspan><tspan x="402" dy="16" opacity="0.88">ウ</tspan><tspan x="402" dy="16" opacity="0.75">G</tspan><tspan x="402" dy="16" opacity="0.62">N</tspan><tspan x="402" dy="16" opacity="0.5">オ</tspan><tspan x="402" dy="16" opacity="0.38">イ</tspan><tspan x="402" dy="16" opacity="0.25">T</tspan><tspan x="402" dy="16" opacity="0.12">M</tspan></text>
+<text class="col c19"><tspan x="424" dy="16">シ</tspan><tspan x="424" dy="16" opacity="1.0">セ</tspan><tspan x="424" dy="16" opacity="0.8">ケ</tspan><tspan x="424" dy="16" opacity="0.6">E</tspan><tspan x="424" dy="16" opacity="0.4">J</tspan><tspan x="424" dy="16" opacity="0.2">I</tspan></text>
+<text class="col c20"><tspan x="446" dy="16">F</tspan><tspan x="446" dy="16" opacity="1.0">イ</tspan><tspan x="446" dy="16" opacity="0.88">ケ</tspan><tspan x="446" dy="16" opacity="0.75">C</tspan><tspan x="446" dy="16" opacity="0.62">0</tspan><tspan x="446" dy="16" opacity="0.5">C</tspan><tspan x="446" dy="16" opacity="0.38">ソ</tspan><tspan x="446" dy="16" opacity="0.25">H</tspan><tspan x="446" dy="16" opacity="0.12">チ</tspan></text>
+<text class="col c21"><tspan x="468" dy="16">P</tspan><tspan x="468" dy="16" opacity="1.0">Y</tspan><tspan x="468" dy="16" opacity="0.9">N</tspan><tspan x="468" dy="16" opacity="0.8">U</tspan><tspan x="468" dy="16" opacity="0.7">X</tspan><tspan x="468" dy="16" opacity="0.6">J</tspan><tspan x="468" dy="16" opacity="0.5">ク</tspan><tspan x="468" dy="16" opacity="0.4">サ</tspan><tspan x="468" dy="16" opacity="0.3">チ</tspan><tspan x="468" dy="16" opacity="0.2">シ</tspan><tspan x="468" dy="16" opacity="0.1">イ</tspan></text>
+<text class="col c22"><tspan x="490" dy="16">ケ</tspan><tspan x="490" dy="16" opacity="1.0">M</tspan><tspan x="490" dy="16" opacity="0.9">イ</tspan><tspan x="490" dy="16" opacity="0.8">Z</tspan><tspan x="490" dy="16" opacity="0.7">テ</tspan><tspan x="490" dy="16" opacity="0.6">イ</tspan><tspan x="490" dy="16" opacity="0.5">イ</tspan><tspan x="490" dy="16" opacity="0.4">P</tspan><tspan x="490" dy="16" opacity="0.3">I</tspan><tspan x="490" dy="16" opacity="0.2">K</tspan><tspan x="490" dy="16" opacity="0.1">L</tspan></text>
+<text class="col c23"><tspan x="512" dy="16">ウ</tspan><tspan x="512" dy="16" opacity="1.0">K</tspan><tspan x="512" dy="16" opacity="0.8">エ</tspan><tspan x="512" dy="16" opacity="0.6">コ</tspan><tspan x="512" dy="16" opacity="0.4">ウ</tspan><tspan x="512" dy="16" opacity="0.2">Q</tspan></text>
+<text class="col c24"><tspan x="534" dy="16">E</tspan><tspan x="534" dy="16" opacity="1.0">セ</tspan><tspan x="534" dy="16" opacity="0.9">D</tspan><tspan x="534" dy="16" opacity="0.8">カ</tspan><tspan x="534" dy="16" opacity="0.7">O</tspan><tspan x="534" dy="16" opacity="0.6">セ</tspan><tspan x="534" dy="16" opacity="0.5">P</tspan><tspan x="534" dy="16" opacity="0.4">Q</tspan><tspan x="534" dy="16" opacity="0.3">ア</tspan><tspan x="534" dy="16" opacity="0.2">R</tspan><tspan x="534" dy="16" opacity="0.1">エ</tspan></text>
+<text class="col c25"><tspan x="556" dy="16">ソ</tspan><tspan x="556" dy="16" opacity="1.0">P</tspan><tspan x="556" dy="16" opacity="0.9">O</tspan><tspan x="556" dy="16" opacity="0.8">L</tspan><tspan x="556" dy="16" opacity="0.7">テ</tspan><tspan x="556" dy="16" opacity="0.6">ソ</tspan><tspan x="556" dy="16" opacity="0.5">シ</tspan><tspan x="556" dy="16" opacity="0.4">U</tspan><tspan x="556" dy="16" opacity="0.3">X</tspan><tspan x="556" dy="16" opacity="0.2">テ</tspan><tspan x="556" dy="16" opacity="0.1">セ</tspan></text>
+<text class="col c26"><tspan x="578" dy="16">H</tspan><tspan x="578" dy="16" opacity="1.0">キ</tspan><tspan x="578" dy="16" opacity="0.88">U</tspan><tspan x="578" dy="16" opacity="0.75">T</tspan><tspan x="578" dy="16" opacity="0.62">ツ</tspan><tspan x="578" dy="16" opacity="0.5">H</tspan><tspan x="578" dy="16" opacity="0.38">テ</tspan><tspan x="578" dy="16" opacity="0.25">ウ</tspan><tspan x="578" dy="16" opacity="0.12">0</tspan></text>
+<text class="col c27"><tspan x="600" dy="16">ウ</tspan><tspan x="600" dy="16" opacity="1.0">O</tspan><tspan x="600" dy="16" opacity="0.89">オ</tspan><tspan x="600" dy="16" opacity="0.78">ウ</tspan><tspan x="600" dy="16" opacity="0.67">M</tspan><tspan x="600" dy="16" opacity="0.56">シ</tspan><tspan x="600" dy="16" opacity="0.44">K</tspan><tspan x="600" dy="16" opacity="0.33">ソ</tspan><tspan x="600" dy="16" opacity="0.22">キ</tspan><tspan x="600" dy="16" opacity="0.11">A</tspan></text>
+<text class="col c28"><tspan x="622" dy="16">ツ</tspan><tspan x="622" dy="16" opacity="1.0">B</tspan><tspan x="622" dy="16" opacity="0.83">チ</tspan><tspan x="622" dy="16" opacity="0.67">ケ</tspan><tspan x="622" dy="16" opacity="0.5">G</tspan><tspan x="622" dy="16" opacity="0.33">M</tspan><tspan x="622" dy="16" opacity="0.17">X</tspan></text>
+<text class="col c29"><tspan x="644" dy="16">ソ</tspan><tspan x="644" dy="16" opacity="1.0">T</tspan><tspan x="644" dy="16" opacity="0.89">L</tspan><tspan x="644" dy="16" opacity="0.78">0</tspan><tspan x="644" dy="16" opacity="0.67">U</tspan><tspan x="644" dy="16" opacity="0.56">N</tspan><tspan x="644" dy="16" opacity="0.44">ツ</tspan><tspan x="644" dy="16" opacity="0.33">U</tspan><tspan x="644" dy="16" opacity="0.22">オ</tspan><tspan x="644" dy="16" opacity="0.11">キ</tspan></text>
+<text class="col c30"><tspan x="666" dy="16">チ</tspan><tspan x="666" dy="16" opacity="1.0">オ</tspan><tspan x="666" dy="16" opacity="0.8">Z</tspan><tspan x="666" dy="16" opacity="0.6">N</tspan><tspan x="666" dy="16" opacity="0.4">ク</tspan><tspan x="666" dy="16" opacity="0.2">タ</tspan></text>
+<text class="col c31"><tspan x="688" dy="16">ソ</tspan><tspan x="688" dy="16" opacity="1.0">シ</tspan><tspan x="688" dy="16" opacity="0.89">X</tspan><tspan x="688" dy="16" opacity="0.78">ト</tspan><tspan x="688" dy="16" opacity="0.67">シ</tspan><tspan x="688" dy="16" opacity="0.56">V</tspan><tspan x="688" dy="16" opacity="0.44">S</tspan><tspan x="688" dy="16" opacity="0.33">ソ</tspan><tspan x="688" dy="16" opacity="0.22">K</tspan><tspan x="688" dy="16" opacity="0.11">J</tspan></text>
+<text class="col c32"><tspan x="710" dy="16">0</tspan><tspan x="710" dy="16" opacity="1.0">エ</tspan><tspan x="710" dy="16" opacity="0.8">S</tspan><tspan x="710" dy="16" opacity="0.6">F</tspan><tspan x="710" dy="16" opacity="0.4">タ</tspan><tspan x="710" dy="16" opacity="0.2">ア</tspan></text>
+<text class="col c33"><tspan x="732" dy="16">X</tspan><tspan x="732" dy="16" opacity="1.0">キ</tspan><tspan x="732" dy="16" opacity="0.86">S</tspan><tspan x="732" dy="16" opacity="0.71">ソ</tspan><tspan x="732" dy="16" opacity="0.57">ケ</tspan><tspan x="732" dy="16" opacity="0.43">Z</tspan><tspan x="732" dy="16" opacity="0.29">G</tspan><tspan x="732" dy="16" opacity="0.14">N</tspan></text>
+<text class="col c34"><tspan x="754" dy="16">B</tspan><tspan x="754" dy="16" opacity="1.0">N</tspan><tspan x="754" dy="16" opacity="0.88">0</tspan><tspan x="754" dy="16" opacity="0.75">カ</tspan><tspan x="754" dy="16" opacity="0.62">ウ</tspan><tspan x="754" dy="16" opacity="0.5">W</tspan><tspan x="754" dy="16" opacity="0.38">ク</tspan><tspan x="754" dy="16" opacity="0.25">M</tspan><tspan x="754" dy="16" opacity="0.12">ア</tspan></text>
+<text class="col c35"><tspan x="776" dy="16">シ</tspan><tspan x="776" dy="16" opacity="1.0">N</tspan><tspan x="776" dy="16" opacity="0.89">ク</tspan><tspan x="776" dy="16" opacity="0.78">F</tspan><tspan x="776" dy="16" opacity="0.67">キ</tspan><tspan x="776" dy="16" opacity="0.56">ア</tspan><tspan x="776" dy="16" opacity="0.44">ツ</tspan><tspan x="776" dy="16" opacity="0.33">B</tspan><tspan x="776" dy="16" opacity="0.22">ア</tspan><tspan x="776" dy="16" opacity="0.11">A</tspan></text>
+<text class="col c36"><tspan x="798" dy="16">ケ</tspan><tspan x="798" dy="16" opacity="1.0">セ</tspan><tspan x="798" dy="16" opacity="0.9">U</tspan><tspan x="798" dy="16" opacity="0.8">オ</tspan><tspan x="798" dy="16" opacity="0.7">A</tspan><tspan x="798" dy="16" opacity="0.6">N</tspan><tspan x="798" dy="16" opacity="0.5">E</tspan><tspan x="798" dy="16" opacity="0.4">R</tspan><tspan x="798" dy="16" opacity="0.3">Z</tspan><tspan x="798" dy="16" opacity="0.2">ク</tspan><tspan x="798" dy="16" opacity="0.1">セ</tspan></text>
+<text class="col c37"><tspan x="820" dy="16">U</tspan><tspan x="820" dy="16" opacity="1.0">E</tspan><tspan x="820" dy="16" opacity="0.83">1</tspan><tspan x="820" dy="16" opacity="0.67">コ</tspan><tspan x="820" dy="16" opacity="0.5">Z</tspan><tspan x="820" dy="16" opacity="0.33">ト</tspan><tspan x="820" dy="16" opacity="0.17">E</tspan></text>
+<text class="col c38"><tspan x="842" dy="16">H</tspan><tspan x="842" dy="16" opacity="1.0">セ</tspan><tspan x="842" dy="16" opacity="0.9">タ</tspan><tspan x="842" dy="16" opacity="0.8">ケ</tspan><tspan x="842" dy="16" opacity="0.7">W</tspan><tspan x="842" dy="16" opacity="0.6">オ</tspan><tspan x="842" dy="16" opacity="0.5">C</tspan><tspan x="842" dy="16" opacity="0.4">ア</tspan><tspan x="842" dy="16" opacity="0.3">I</tspan><tspan x="842" dy="16" opacity="0.2">ス</tspan><tspan x="842" dy="16" opacity="0.1">サ</tspan></text>
+<text class="col c39"><tspan x="864" dy="16">ト</tspan><tspan x="864" dy="16" opacity="1.0">ツ</tspan><tspan x="864" dy="16" opacity="0.86">ス</tspan><tspan x="864" dy="16" opacity="0.71">ス</tspan><tspan x="864" dy="16" opacity="0.57">1</tspan><tspan x="864" dy="16" opacity="0.43">U</tspan><tspan x="864" dy="16" opacity="0.29">サ</tspan><tspan x="864" dy="16" opacity="0.14">D</tspan></text>
+</svg>
