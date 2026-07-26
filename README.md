@@ -25,7 +25,8 @@ $ ls -la ~/socials
 
 <p align="left">
 <a href="https://discord.gg/bjp7DfvKG" target="_blank"><img src="https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=discord&logoColor=00FF41"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
+<a href="mailto:alibeisenov5@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
+<a href="http://46.224.105.247/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41"/></a>
 </p>
 
 <br/>
