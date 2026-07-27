@@ -12,10 +12,7 @@
 $ cat about.md
 ```
 
-> 🚀 Fullstack developer building enterprise-grade tools and side projects on the side.
-> 🌱 Currently growing a few personal projects, from web apps to public APIs.
-> 🎯 I care about clean, well-built interfaces as much as clean code.
-> 📫 Open to interesting projects and collaborations.
+Fullstack developer who likes shipping enterprise tools by day and building random side projects by night — from web apps to public APIs. I care about clean interfaces as much as clean code. Always up for interesting projects and collaborations.
 
 <br/>
 
@@ -26,7 +23,7 @@ $ ls -la ~/socials
 <p align="left">
 <a href="https://discord.gg/bjp7DfvKG" target="_blank"><img src="https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=discord&logoColor=00FF41"/></a>
 <a href="mailto:alibeisenov5@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/></a>
-<a href="http://46.224.105.247/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41"/></a>
+<a href="http://46.224.105.247/" target="_blank"><img src="https://img.shields.io/badge/kokonaihub-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF41"/></a>
 </p>
 
 <br/>
