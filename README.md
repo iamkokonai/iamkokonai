@@ -12,7 +12,7 @@
 $ cat about.md
 ```
 
-Fullstack developer who likes shipping enterprise tools by day and building random side projects by night — from web apps to public APIs. I care about clean interfaces as much as clean code. Always up for interesting projects and collaborations.
+Fullstack developer who likes shipping enterprise tools by day and building random side projects by night - from web apps to public APIs. I care about clean interfaces as much as clean code. Always up for interesting projects and collaborations.
 
 <br/>
 
